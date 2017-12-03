@@ -1,0 +1,19 @@
+{
+  "name": "nodehelloworld",
+  "version": "1.0.0",
+  "description": "Google Code-In task: Write a npm Node.js module that prints \"Hello World\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citronella3alain/nodehelloworld.git"
+  },
+  "author": "Allen Mao <excursion.allen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/citronella3alain/nodehelloworld/issues"
+  },
+  "homepage": "https://github.com/citronella3alain/nodehelloworld#readme"
+}
