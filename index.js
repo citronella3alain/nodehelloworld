@@ -3,4 +3,6 @@
  * Prints Hello World to the console
  * @return {string}
  */
-process.stdout.write("Hello World");
+module.exports = function(){
+	process.stdout.write("Hello World");
+};
